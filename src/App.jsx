@@ -44,7 +44,7 @@ function App() {
       className='outline-none w-full py-3 px-3'
       placeholder='password'
       readOnly
-      ref={passwordRef}
+      ref={passwordRef}             
       
       />
 
