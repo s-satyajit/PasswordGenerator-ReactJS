@@ -45,7 +45,6 @@ function App() {
       placeholder='password'
       readOnly
       ref={passwordRef}             
-      
       />
 
       <button
